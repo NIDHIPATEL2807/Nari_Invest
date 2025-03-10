@@ -1,4 +1,75 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Nari Invest - AI-Powered Financial Management for Women
+
+![image][Uploading Screenshot 2025-03-05 180915.png…]()
+
+
+## 📌 About Nari Invest
+Nari Invest is a smart financial management platform that empowers women with AI-driven budgeting, expense tracking, and investment guidance. The platform makes financial planning simple, accessible, and personalized.
+
+## 🚀 Features
+### 1️⃣ **Budgeting & Expense Tracker**
+- ✅ **Budget Goal Setting**: Set monthly or weekly budget limits.
+- ✅ **Expense Entry**: Add expenses manually or via **voice input (Web Speech API)**.
+- ✅ **AI-Based Categorization**: Uses **rule-based AI** (extendable to NLP) for classifying expenses (Food, Transport, Bills, etc.).
+- ✅ **Dashboard & Reports**: Visual summaries with **graphs and insights**.
+- ✅ **Multi-Language Support**: Default **Hindi**, easily switchable to other languages.
+
+![Budget Tracker](assets/budget_tracker.png)
+
+### 2️⃣ **Financial Education Hub**
+- 📖 **Learning Modules** (Beginner to Advanced)
+  - **Basic Finance**: Budgeting, Saving, Bank Accounts
+  - **Financial Independence**: Planning for Emergencies, Retirement
+  - **Women-Centric Finance**: Govt Schemes, Tax Benefits
+
+![Learning Modules](assets/learning_hub.png)
+
+### 3️⃣ **Financial Planning Tools**
+- 📊 **SIP Calculator**
+- 🏡 **EMI Calculator**
+- 🎯 **Goal Planner**
+
+![Financial Tools](assets/financial_tools.png)
+
+### 4️⃣ **Enhanced Investment Quiz UI**
+- ✅ **User-Friendly & Inclusive**: Simple language, icons, and images.
+- ✅ **Voice Assistant**: Reads questions aloud using Web Speech API.
+- ✅ **Multilingual Support**: English, Hindi, Marathi, Tamil, Bengali, etc.
+- ✅ **Smart Recommendations**: AI suggests investments based on user profile (PPF, SIPs, Mutual Funds, etc.).
+- ✅ **Accessibility & Engagement**: Voice input, Leaderboard, Community Forum.
+
+![Investment Quiz](assets/investment_quiz.png)
+
+### 5️⃣ **Smart Investment Dashboard**
+- **User Overview Panel**: Total Savings, Monthly Income vs Expenses, Risk Tolerance.
+- **AI-Powered Investment Suggestions**:
+  - **Safe Investments** → FD, RD, Gold ETFs, Govt Bonds
+  - **Moderate Investments** → SIPs, Index Funds, Corporate Bonds
+  - **High-Risk Investments** → Stocks, REITs, Crypto
+- **Predictive Analytics & What-If Scenarios**: Wealth Growth Calculator, Investment Projections.
+- **Portfolio Optimization & Rebalancing**: Live tracking & AI suggestions.
+
+![Dashboard](assets/investment_dashboard.png)
+
+## 🛠 Tech Stack
+- **Frontend**: React (Material UI / Tailwind CSS)
+- **Backend**: Node.js with Express
+- **Database**: Firebase / MongoDB
+- **AI Categorization**: Rule-based approach (extendable with NLP)
+- **Voice Input**: Web Speech API
+
+## 📥 Installation & Setup
+```sh
+# Clone the repo
+git clone https://github.com/yourusername/NariInvest.git
+cd NariInvest
+
+# Install dependencies
+npm install
+
+# Start the app
+npm start
+
 
 ## Getting Started
 
