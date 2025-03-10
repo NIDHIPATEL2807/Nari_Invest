@@ -1,6 +1,5 @@
 # Nari Invest - AI-Powered Financial Management for Women
 
-![image][Uploading Screenshot 2025-03-05 180915.png…]()
 
 
 ## 📌 About Nari Invest
@@ -14,7 +13,7 @@ Nari Invest is a smart financial management platform that empowers women with AI
 - ✅ **Dashboard & Reports**: Visual summaries with **graphs and insights**.
 - ✅ **Multi-Language Support**: Default **Hindi**, easily switchable to other languages.
 
-![Budget Tracker](assets/budget_tracker.png)
+![Budget Tracker](assets/budget.png)
 
 ### 2️⃣ **Financial Education Hub**
 - 📖 **Learning Modules** (Beginner to Advanced)
@@ -22,7 +21,7 @@ Nari Invest is a smart financial management platform that empowers women with AI
   - **Financial Independence**: Planning for Emergencies, Retirement
   - **Women-Centric Finance**: Govt Schemes, Tax Benefits
 
-![Learning Modules](assets/learning_hub.png)
+![Learning Modules](assets/learn.png)
 
 ### 3️⃣ **Financial Planning Tools**
 - 📊 **SIP Calculator**
@@ -30,6 +29,7 @@ Nari Invest is a smart financial management platform that empowers women with AI
 - 🎯 **Goal Planner**
 
 ![Financial Tools](public/sip.png)
+![Financial Tools](public/emi.png)
 
 ### 4️⃣ **Enhanced Investment Quiz UI**
 - ✅ **User-Friendly & Inclusive**: Simple language, icons, and images.
@@ -38,7 +38,9 @@ Nari Invest is a smart financial management platform that empowers women with AI
 - ✅ **Smart Recommendations**: AI suggests investments based on user profile (PPF, SIPs, Mutual Funds, etc.).
 - ✅ **Accessibility & Engagement**: Voice input, Leaderboard, Community Forum.
 
-![Investment Quiz](assets/investment_quiz.png)
+![Investment Quiz](assets/quiz.png)
+![recomend](assets/recommend.png)
+
 
 ### 5️⃣ **Smart Investment Dashboard**
 - **User Overview Panel**: Total Savings, Monthly Income vs Expenses, Risk Tolerance.
@@ -49,7 +51,6 @@ Nari Invest is a smart financial management platform that empowers women with AI
 - **Predictive Analytics & What-If Scenarios**: Wealth Growth Calculator, Investment Projections.
 - **Portfolio Optimization & Rebalancing**: Live tracking & AI suggestions.
 
-![Dashboard](assets/investment_dashboard.png)
 
 ## 🛠 Tech Stack
 - **Frontend**: React (Material UI / Tailwind CSS)
