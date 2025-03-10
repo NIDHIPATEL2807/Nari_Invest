@@ -1,6 +1,7 @@
 # Nari Invest - AI-Powered Financial Management for Women
 
-![Nari Invest](assets/banner.png)
+![Uploading Screenshot 2025-03-05 180915.png…]()
+
 
 ## 📌 About Nari Invest
 Nari Invest is a smart financial management platform that empowers women with AI-driven budgeting, expense tracking, and investment guidance. The platform makes financial planning simple, accessible, and personalized.
