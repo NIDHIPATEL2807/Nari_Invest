@@ -13,7 +13,7 @@ Nari Invest is a smart financial management platform that empowers women with AI
 - ✅ **Dashboard & Reports**: Visual summaries with **graphs and insights**.
 - ✅ **Multi-Language Support**: Default **Hindi**, easily switchable to other languages.
 
-![Budget Tracker](assets/budget.png)
+![Budget Tracker](public/budget.png)
 
 ### 2️⃣ **Financial Education Hub**
 - 📖 **Learning Modules** (Beginner to Advanced)
@@ -21,7 +21,7 @@ Nari Invest is a smart financial management platform that empowers women with AI
   - **Financial Independence**: Planning for Emergencies, Retirement
   - **Women-Centric Finance**: Govt Schemes, Tax Benefits
 
-![Learning Modules](assets/learn.png)
+![Learning Modules](public/learn.png)
 
 ### 3️⃣ **Financial Planning Tools**
 - 📊 **SIP Calculator**
@@ -38,8 +38,8 @@ Nari Invest is a smart financial management platform that empowers women with AI
 - ✅ **Smart Recommendations**: AI suggests investments based on user profile (PPF, SIPs, Mutual Funds, etc.).
 - ✅ **Accessibility & Engagement**: Voice input, Leaderboard, Community Forum.
 
-![Investment Quiz](assets/quiz.png)
-![recomend](assets/recommend.png)
+![Investment Quiz](public/quiz.png)
+![recomend](public/recommend.png)
 
 
 ### 5️⃣ **Smart Investment Dashboard**
