@@ -1,6 +1,6 @@
 # Nari Invest - AI-Powered Financial Management for Women
 
-![Uploading Screenshot 2025-03-05 180915.png…]()
+![image][Uploading Screenshot 2025-03-05 180915.png…]()
 
 
 ## 📌 About Nari Invest
