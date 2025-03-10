@@ -26,10 +26,11 @@ Nari Invest is a smart financial management platform that empowers women with AI
 ### 3️⃣ **Financial Planning Tools**
 - 📊 **SIP Calculator**
 - 🏡 **EMI Calculator**
-- 🎯 **Goal Planner**
+- 🎯 **Sukanya Samruddhi Yojna**
 
 ![Financial Tools](public/sip.png)
 ![Financial Tools](public/emi.png)
+![Financial Tools](public/su.png)
 
 ### 4️⃣ **Enhanced Investment Quiz UI**
 - ✅ **User-Friendly & Inclusive**: Simple language, icons, and images.
